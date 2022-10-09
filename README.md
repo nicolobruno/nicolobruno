@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolobruno
-- 👀 I’m interested in Front-End, UX and UI
+- 👀 I’m interested in the Frontend world and React
 - 🌱 I’m currently learning animations css
 - 📫 How to reach me https://www.linkedin.com/in/nicolaslobruno/
 
