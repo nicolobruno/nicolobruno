@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolobruno
 - 👀 I’m interested in the FrontEnd world and continue learning new things
-- 🌱 I’m currently learning animations css and typescript
+- 🌱 I’m currently learning animations css, typescript and next.js
 - 📫 How to reach me https://www.linkedin.com/in/nicolaslobruno/ and https://codesandbox.io/u/nicolobruno
 
 <!---
